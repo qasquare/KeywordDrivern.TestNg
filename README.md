@@ -1,4 +1,4 @@
-# Selenium Framework
+# Selenium Framework - Keyword Driven 
 Keyword Driven Framework using Selenium + Java + TestNG.
 Reporting feature using Extent Reports.
 Taking Screenshots on Failed test cases and also upon specifying on Test Step. 
